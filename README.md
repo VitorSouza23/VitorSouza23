@@ -14,4 +14,4 @@ As coisas que costumo fazer por aqui:
 
 ## Tu tem vida social?
 
-<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /> @Vitor_0001
+<a href="twitter.com/Vitor_0001"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
