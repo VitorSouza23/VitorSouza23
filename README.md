@@ -4,13 +4,14 @@ Me chamo **Vitor**, desenvolvedor de ~~bugs~~ softwares desde 2017. Curto muito 
 
 ## Que q tu faz véi?
 
-As linguagens que mais gosto de mexer:
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vitorsouza23)](https://github.com/anuraghazra/github-readme-stats)
-
 As coisas que costumo fazer por aqui:
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=vitorsouza23)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorsouza23&layout=compact&langs_count=8" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=vitorsouza23&count_private=true&show_icons=true" />
+</a>
 
 ## Tu tem vida social?
 
