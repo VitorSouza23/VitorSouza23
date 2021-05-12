@@ -1,6 +1,6 @@
 # Eu quem?
 
-Me chamo **Vitor**, desenvolvedor de ~~bugs~~ softwares desde 2017. Curto muito **back-end**, mas estou sempre me aventurando em **front** e **mobile**.
+Me chamo **Vitor**, desenvolvedor de ~~bugs~~ softwares desde 2017. Curto muito **back-end**, mas estou sempre me aventurando em **front**, **arquitetura de projetos** e **operações**.
 
 ## Que q tu faz véi?
 
