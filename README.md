@@ -7,10 +7,10 @@ My name is **Vitor**, I've been developing ~~bugs~~ software since 2017. I reall
 The things I usually do around here:
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorsouza23&layout=compact&langs_count=8" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=vitorsouza23&count_private=true&show_icons=true" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=vitorsouza23&count_private=true&show_icons=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorsouza23&layout=compact&langs_count=8" />
 </a>
 
 ## About my social life
